@@ -1,5 +1,5 @@
 # python-2048
-Command line clone of the game 2048 in python.
+Command line clone of the game 2048 in python. No external libraries used
 
 ![](https://raw.githubusercontent.com/hirsimaki-markus/python-2048/master/2048/2048_gif.gif)
 
